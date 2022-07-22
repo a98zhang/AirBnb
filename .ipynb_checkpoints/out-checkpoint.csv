@@ -1,0 +1,139 @@
+neighbourhood,n_listings,neigh_locs,geometry
+Capitol Hill,567,"                      geometry  \
+0  POINT (-122.31837 47.62383)   
+
+                                             address  
+0  Capitol Hill, 98102, Seattle, Washington, Unit...  ","                      geometry  \
+0  POINT (-122.31837 47.62383)   
+
+                                             address  
+0  Capitol Hill, 98102, Seattle, Washington, Unit...  "
+Downtown,530,"                      geometry  \
+0  POINT (-122.32796 47.59791)   
+
+                                             address  
+0  Downtown Seattle Transit Tunnel, 5th Avenue So...  ","                      geometry  \
+0  POINT (-122.32796 47.59791)   
+
+                                             address  
+0  Downtown Seattle Transit Tunnel, 5th Avenue So...  "
+Central Area,369,"                      geometry  \
+0  POINT (-122.30419 47.60137)   
+
+                                             address  
+0  Central Area Dental Clinic, East Yesler Way, 9...  ","                      geometry  \
+0  POINT (-122.30419 47.60137)   
+
+                                             address  
+0  Central Area Dental Clinic, East Yesler Way, 9...  "
+Queen Anne,295,"                      geometry  \
+0  POINT (-122.36075 47.63948)   
+
+                                             address  
+0  Queen Anne, 98119, Seattle, Washington, United...  ","                      geometry  \
+0  POINT (-122.36075 47.63948)   
+
+                                             address  
+0  Queen Anne, 98119, Seattle, Washington, United...  "
+Ballard,230,"                      geometry  \
+0  POINT (-122.38622 47.67651)   
+
+                                             address  
+0  Ballard, 98017, Seattle, Washington, United St...  ","                      geometry  \
+0  POINT (-122.38622 47.67651)   
+
+                                             address  
+0  Ballard, 98017, Seattle, Washington, United St...  "
+West Seattle,203,"                      geometry  \
+0  POINT (-122.38652 47.57093)   
+
+                                             address  
+0  West Seattle, 98116, Seattle, Washington, Unit...  ","                      geometry  \
+0  POINT (-122.38652 47.57093)   
+
+                                             address  
+0  West Seattle, 98116, Seattle, Washington, Unit...  "
+Rainier Valley,159,"                      geometry  \
+0  POINT (-122.29089 47.55254)   
+
+                                             address  
+0  Rainier Valley, 98118, Seattle, Washington, Un...  ","                      geometry  \
+0  POINT (-122.29089 47.55254)   
+
+                                             address  
+0  Rainier Valley, 98118, Seattle, Washington, Un...  "
+University District,122,"                      geometry  \
+0  POINT (-122.30801 47.65432)   
+
+                                             address  
+0  University of Washington, Northeast 42nd Stree...  ","                      geometry  \
+0  POINT (-122.30801 47.65432)   
+
+                                             address  
+0  University of Washington, Northeast 42nd Stree...  "
+Beacon Hill,118,"                      geometry  \
+0  POINT (-122.30996 47.57759)   
+
+                                             address  
+0  Beacon Hill, 98144, Seattle, Washington, Unite...  ","                      geometry  \
+0  POINT (-122.30996 47.57759)   
+
+                                             address  
+0  Beacon Hill, 98144, Seattle, Washington, Unite...  "
+Cascade,89,"                      geometry  \
+0  POINT (-122.14578 47.86426)   
+
+                                             address  
+0  Cascade Drive, 98208, Seattle Hill-Silver Firs...  ","                      geometry  \
+0  POINT (-122.14578 47.86426)   
+
+                                             address  
+0  Cascade Drive, 98208, Seattle Hill-Silver Firs...  "
+Northgate,80,"                      geometry  \
+0  POINT (-122.32123 47.71315)   
+
+                                             address  
+0  Northgate, 98125, Seattle, Washington, United ...  ","                      geometry  \
+0  POINT (-122.32123 47.71315)   
+
+                                             address  
+0  Northgate, 98125, Seattle, Washington, United ...  "
+Delridge,79,"                      geometry  \
+0  POINT (-122.36387 47.55212)   
+
+                                             address  
+0  Delridge, 98106-1499, Seattle, Washington, Uni...  ","                      geometry  \
+0  POINT (-122.36387 47.55212)   
+
+                                             address  
+0  Delridge, 98106-1499, Seattle, Washington, Uni...  "
+Lake City,67,"                      geometry  \
+0  POINT (-122.29549 47.71916)   
+
+                                             address  
+0  Lake City, 98165, Seattle, Washington, United ...  ","                      geometry  \
+0  POINT (-122.29549 47.71916)   
+
+                                             address  
+0  Lake City, 98165, Seattle, Washington, United ...  "
+Magnolia,61,"                      geometry                                      address
+0  POINT (-122.39949 47.64681)  Magnolia, 98199, Seattle, WA, United States","                      geometry                                      address
+0  POINT (-122.39949 47.64681)  Magnolia, 98199, Seattle, WA, United States"
+Seward Park,44,"                      geometry  \
+0  POINT (-122.26580 47.55122)   
+
+                                             address  
+0  Seward Park, 98118, Seattle, Washington, Unite...  ","                      geometry  \
+0  POINT (-122.26580 47.55122)   
+
+                                             address  
+0  Seward Park, 98118, Seattle, Washington, Unite...  "
+Interbay,11,"                      geometry  \
+0  POINT (-122.37634 47.64074)   
+
+                                             address  
+0  Interbay, 98119, Seattle, Washington, United S...  ","                      geometry  \
+0  POINT (-122.37634 47.64074)   
+
+                                             address  
+0  Interbay, 98119, Seattle, Washington, United S...  "
